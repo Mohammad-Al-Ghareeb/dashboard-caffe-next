@@ -1,5 +1,5 @@
 "use client";
-
+// This is the main dashboard page that shows key metrics and recent orders. It uses various hooks to fetch data and displays it in a clean, responsive layout.
 import {
   ArrowTrendingUpIcon,
   CubeIcon,
